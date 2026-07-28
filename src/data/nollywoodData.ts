@@ -10,7 +10,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Adesua Etomi", "Banky W", "Richard Mofe-Damijo", "Iretiola Doyle"],
     synopsis: "A lavish Nigerian wedding turns chaotic when family drama, cultural clashes, and unexpected revelations threaten to derail the big day. Dunni and Dozie navigate love and family expectations.",
     keywords: ["wedding", "family drama", "romance", "comedy", "celebration", "couples", "tradition"],
-    posterUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-wedding-party-18c83bf7-1785260175715.webp",
     rating: 4.5,
     streaming: "Netflix",
     runtime: 108
@@ -24,7 +24,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Genevieve Nnaji", "Nkem Owoh", "Pete Edochie", "Kanu Onyekachi"],
     synopsis: "A young woman steps up to run her father's struggling transport company in Enugu, facing sexism and business challenges while proving her leadership in a male-dominated industry.",
     keywords: ["family business", "leadership", "empowerment", "transport", "igbo culture", "resilience"],
-    posterUrl: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/lionheart-57b8d3c0-1785260173726.webp",
     rating: 4.3,
     streaming: "Netflix",
     runtime: 95
@@ -38,7 +38,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Ramsey Nouah", "Kunle Afolayan", "Omoni Oboli", "Funlola Aofiyebi"],
     synopsis: "Two friends discover a mystical figurine that brings fortune to one and tragedy to the other, exploring the dark consequences of supernatural beliefs in modern Nigeria.",
     keywords: ["supernatural", "mystical", "figurine", "thriller", "friendship", "consequences", "fortune"],
-    posterUrl: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-figurine-dec00d75-1785260173488.webp",
     rating: 4.4,
     streaming: "Amazon Prime",
     runtime: 120
@@ -52,7 +52,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Sadiq Daba", "Kayode Olaiya", "Kehinde Bankole", "Deola Sagoe"],
     synopsis: "A Nigerian police detective investigates a series of murders in a remote town during the final days before Nigeria's independence from British colonial rule in 1960.",
     keywords: ["independence", "mystery", "colonial", "investigation", "historical", "serial killer", "1960"],
-    posterUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/october-1-974ea5fa-1785260174206.webp",
     rating: 4.6,
     streaming: "Netflix",
     runtime: 150
@@ -66,7 +66,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Sola Sobowale", "Adesua Etomi", "Jide Kosoko", "Reminisce"],
     synopsis: "A powerful businesswoman and philanthropist enters the dangerous world of Lagos politics and organized crime, where loyalty is scarce and betrayal is the only currency.",
     keywords: ["politics", "crime", "power", "Lagos", "underworld", "betrayal", "ambition", "queen"],
-    posterUrl: "https://images.unsplash.com/photo-1504711434969-e33886168d3c?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/king-of-boys-d5e06524-1785260173165.webp",
     rating: 4.5,
     streaming: "Netflix",
     runtime: 145
@@ -80,7 +80,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Kenneth Okonkwo", "Mona Ogbogu", "Enyinna Nwigwe", "Beverly Naya"],
     synopsis: "A modern sequel to the 1992 classic, following a man lured into a secret occult society by promises of wealth, only to discover the horrifying price of his ambition.",
     keywords: ["occult", "wealth", "sacrifice", "remake", "classic", "supernatural", "spiritual", "released"],
-    posterUrl: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/living-in-bondage-breaking-free-cd5f4013-1785260178018.webp",
     rating: 4.1,
     streaming: "Netflix",
     runtime: 135
@@ -94,7 +94,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Angela Okorie", "Wale Ojo", "Hilda Dokubo", "Peter Oyedele"],
     synopsis: "Five executives from a multinational company are sent on a corporate retreat in South Africa, where their CEO is found dead, turning everyone into a suspect.",
     keywords: ["corporate", "suspense", "murder", "south africa", "retreat", "whodunit", "mystery"],
-    posterUrl: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-ceo-57e86445-1785260177103.webp",
     rating: 3.9,
     streaming: "Amazon Prime",
     runtime: 112
@@ -108,7 +108,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Tomiwa Edun", "Femi Adebayo", "Bimbo Manuel", "Folasade Agoro"],
     synopsis: "A privileged young boy spends a day as a mechanic apprentice in a Lagos workshop, learning valuable lessons about class, humility, and the dignity of labor.",
     keywords: ["class", "apprenticeship", "mechanic", "Lagos", "humble", "coming of age", "social"],
-    posterUrl: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/mokalik-5c721072-1785260180947.webp",
     rating: 4.0,
     streaming: "Netflix",
     runtime: 98
@@ -122,7 +122,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Anthonieta Kalunta", "Gambo Keneth", "Maryam Booth", "Patience Okpala"],
     synopsis: "A Fulani milkmaid in rural northern Nigeria embarks on a harrowing journey to find her missing husband after a violent extremist attack devastates her community.",
     keywords: ["northern nigeria", "fulani", "war", "survival", "resilience", "extremism", "rural"],
-    posterUrl: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-milkmaid-d2402094-1785260177757.webp",
     rating: 4.3,
     streaming: "Netflix",
     runtime: 106
@@ -136,7 +136,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Temi Otedola", "Jimmy Jean-Louis", "Desmond Elliot", "Bukola Oladipupo"],
     synopsis: "A brilliant university student files a sexual harassment complaint against a charismatic visiting professor, igniting a campus-wide battle for justice and truth.",
     keywords: ["sexual harassment", "university", "justice", "consent", "campus", "professor", "student"],
-    posterUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/citation-33c1c32f-1785260179238.webp",
     rating: 4.0,
     streaming: "Netflix",
     runtime: 155
@@ -150,7 +150,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Dakore Egbuson-Akande", "Joseph Benjamin", "Funke Akindele", "Ned Nwoko"],
     synopsis: "A successful 34-year-old single woman faces mounting family pressure to settle down, navigating traditional matchmaking and modern love in contemporary Nigeria.",
     keywords: ["single", "family pressure", "matchmaking", "modern love", "tradition", "relationships", "women"],
-    posterUrl: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/isoken-10645fba-1785260180416.webp",
     rating: 4.2,
     streaming: "Amazon Prime",
     runtime: 104
@@ -164,7 +164,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Nse Ikpe-Etim", "Wale Ojo", "Lydia Forson", "Chika Okpala"],
     synopsis: "Two strangers traveling from different Nigerian cities accidentally swap phones, leading to a hilarious chain of events that forces them to experience each other's lives.",
     keywords: ["misunderstanding", "travel", "phone swap", "comedy", "strangers", "accidental", "connection"],
-    posterUrl: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/phone-swap-7bf25dcb-1785260181028.webp",
     rating: 4.0,
     streaming: "iROKOtv",
     runtime: 108
@@ -178,7 +178,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Femi Branch", "Tope Tedela", "David Jones David", "Wale Ogunnaike"],
     synopsis: "A Nigerian Army recruitment camp becomes the crucible where young recruits are forged through grueling physical and psychological trials testing their limits.",
     keywords: ["military", "recruitment", "army", "training", "discipline", "sacrifice", "patriotism"],
-    posterUrl: "https://images.unsplash.com/photo-1581591524435-78b2a8d4e3f0?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/battleground-bb4c4a2f-1785260181397.webp",
     rating: 3.8,
     streaming: "Netflix",
     runtime: 115
@@ -192,7 +192,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Bimbo Akintola", "Wale Ojo", "Beverly Naya", "Tope Tedela"],
     synopsis: "A single mother's peaceful life unravels when her late husband's secrets emerge, forcing her to confront buried truths that redefine her family's past and future.",
     keywords: ["grief", "secrets", "family", "mother", "healing", "truth", "past", "ghost"],
-    posterUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-ghost-and-the-house-of-truth-396bf0df-1785260183612.webp",
     rating: 4.1,
     streaming: "Netflix",
     runtime: 110
@@ -206,7 +206,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Paul Utomi", "Onyekachi Ugwu", "Jude Chukwuka", "Awawu Ribadu"],
     synopsis: "An anthology of three supernatural tales exploring love, greed, and vanity through the lens of Nigerian juju mysticism and urban folklore.",
     keywords: ["anthology", "supernatural", "juju", "folklore", "horror", "urban legends", "mysticism"],
-    posterUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/juju-stories-4feda325-1785260183980.webp",
     rating: 4.2,
     streaming: "Amazon Prime",
     runtime: 125
@@ -220,7 +220,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Toyin Abraham", "Mercy Aigbe", "Bimbo Ademoye", "Brodah Shaggi"],
     synopsis: "A serial liar from a humble background fabricates a glamorous life on social media, leading to increasingly absurd situations when her lies spiral out of control.",
     keywords: ["social media", "lies", "comedy", "pretending", "influencer", "fake life", "deception"],
-    posterUrl: "https://images.unsplash.com/photo-1572295728438-8ebc0c5c4013?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/fate-of-alakada-5671349f-1785260184531.webp",
     rating: 3.9,
     streaming: "Netflix",
     runtime: 112
@@ -234,7 +234,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Ruslaan Mumtaz", "Ini Dima-Okojie", "Bhavna Limbachia", "Richard Mofe-Damijo"],
     synopsis: "A cross-cultural love story between a Nigerian woman and an Indian man, as their families collide in a battle of traditions, cuisines, and expectations.",
     keywords: ["cross-cultural", "india", "love", "family", "tradition", "interracial", "romance", "conflict"],
-    posterUrl: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/namaste-wahala-41288663-1785260184515.webp",
     rating: 3.7,
     streaming: "Netflix",
     runtime: 101
@@ -248,7 +248,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Sharon Ooja", "Omoni Oboli", "Beverly Osu", "Kenneth Okonkwo"],
     synopsis: "An undercover journalist infiltrates a human trafficking ring in Nigeria, risking her life to expose the horrifying reality of young women sold into prostitution abroad.",
     keywords: ["human trafficking", "journalism", "undercover", "investigation", "expose", "migration", "women"],
-    posterUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/oloture-91429a8f-1785260185409.webp",
     rating: 4.4,
     streaming: "Netflix",
     runtime: 145
@@ -262,7 +262,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Gabriel Afolayan", "Damilola Ogunsi", "Omowunmi Dada", "Samson Oyelola"],
     synopsis: "A traumatized war veteran returns to his village tormented by supernatural visions, struggling to distinguish between reality and the madness consuming his mind.",
     keywords: ["ptsd", "trauma", "war veteran", "supernatural", "village", "mental health", "horror"],
-    posterUrl: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/coming-from-insanity-f270a33c-1785260187716.webp",
     rating: 3.8,
     streaming: "Amazon Prime",
     runtime: 118
@@ -276,7 +276,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["O.C. Ukeje", "Somkele Idhalama", "Ireti Doyle", "Adrian Adepetu"],
     synopsis: "A high-stakes corporate arbitration hearing unravels a toxic workplace relationship, exposing power dynamics, harassment, and the blurred lines of consent.",
     keywords: ["workplace", "arbitration", "harassment", "power", "corporate", "trial", "consent"],
-    posterUrl: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-arbitration-6261c431-1785260189700.webp",
     rating: 4.0,
     streaming: "Amazon Prime",
     runtime: 110
@@ -290,7 +290,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Toke Makinwa", "Osas Ighodaro", "Beverly Naya", "Alexx Ekubo"],
     synopsis: "A wealthy Lagos family's lavish lifestyle hides deep financial troubles, forcing them to confront their excesses when their fortune begins to crumble.",
     keywords: ["wealth", "Lagos", "family", "money", "extravagance", "society", "bankruptcy", "pride"],
-    posterUrl: "https://images.unsplash.com/photo-1572295728438-8ebc0c5c4013?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-bling-lagosians-4e2f5a33-1785260207750.webp",
     rating: 3.6,
     streaming: "Netflix",
     runtime: 105
@@ -304,7 +304,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Stan Nze", "Osas Ighodaro", "Charles Okafor", "Omotola Jalade-Ekeinde"],
     synopsis: "A charismatic armed robber leads a team of elite criminals on daring heists across Lagos, pushing the limits of loyalty and betrayal in the criminal underworld.",
     keywords: ["heist", "armed robbery", "crime", "Lagos", "underworld", "gang", "action", "remake"],
-    posterUrl: "https://images.unsplash.com/photo-1581591524435-78b2a8d4e3f0?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/rattle-snake-ahanna-3646a8ab-1785260205973.webp",
     rating: 4.0,
     streaming: "Amazon Prime",
     runtime: 130
@@ -318,7 +318,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Bisola Aiyeola", "Adesua Etomi", "Falz", "Efe Irele"],
     synopsis: "Three best friends attempt to rob a bank to save their struggling bakery, leading to a wild ride of chaos, laughter, and unexpected camaraderie.",
     keywords: ["heist", "comedy", "bakery", "friends", "bank robbery", "desperation", "business"],
-    posterUrl: "https://images.unsplash.com/photo-1572295728438-8ebc0c5c4013?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/sugar-rush-1c42a1df-1785260206662.webp",
     rating: 3.7,
     streaming: "Netflix",
     runtime: 108
@@ -332,7 +332,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Toyin Abraham", "Timini Egbuson", "Sam Dede", "Bimbo Manuel"],
     synopsis: "A wealthy spoiled man and a pregnant woman from different worlds get trapped in a broken elevator, forcing them to work together in a life-changing encounter.",
     keywords: ["elevator", "strangers", "birth", "class", "romance", "trapped", "unexpected", "miracle"],
-    posterUrl: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/elevator-baby-ad00da0d-1785260206833.webp",
     rating: 4.1,
     streaming: "Netflix",
     runtime: 102
@@ -346,7 +346,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Kate Henshaw", "Sani Danja", "Bimbo Manuel", "Linda Ejiofor"],
     synopsis: "After a disputed gubernatorial election, a female election commissioner risks everything to defend the integrity of Nigeria's democratic process against corruption.",
     keywords: ["politics", "election", "democracy", "corruption", "commissioner", "justice", "nigeria"],
-    posterUrl: "https://images.unsplash.com/photo-1504711434969-e33886168d3c?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/4th-republic-0ec5668c-1785260206373.webp",
     rating: 4.2,
     streaming: "Amazon Prime",
     runtime: 120
@@ -360,7 +360,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Linda Ejiofor", "Daniel K. Daniel", "Tope Tedela", "Adesua Etomi"],
     synopsis: "A Nigerian soldier returns from peacekeeping duty with PTSD, struggling to reintegrate into civilian life and repair relationships shattered by war trauma.",
     keywords: ["soldier", "ptsd", "trauma", "war", "reintegration", "family", "mental health", "peacekeeping"],
-    posterUrl: "https://images.unsplash.com/photo-1581591524435-78b2a8d4e3f0?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/a-soldiers-story-6d35d86f-1785260209795.webp",
     rating: 4.0,
     streaming: "iROKOtv",
     runtime: 115
@@ -374,7 +374,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Omoni Oboli", "Hilda Dokubo", "Uche Jombo", "Beverly Naya"],
     synopsis: "Three mothers from different backgrounds bond over the chaotic joys and heartbreaks of raising children, navigating motherhood in modern Nigerian society.",
     keywords: ["motherhood", "family", "comedy", "women", "parenting", "friendship", "children"],
-    posterUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/mama-drama-75e2b634-1785260210604.webp",
     rating: 3.8,
     streaming: "Netflix",
     runtime: 110
@@ -388,7 +388,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Ireti Doyle", "Kehinde Bankole", "Gabriel Afolayan", "Solomon Akinlade"],
     synopsis: "A ruthless female politician's ambition threatens to tear apart her family as dark secrets from the past emerge, set against the backdrop of Kaduna's political landscape.",
     keywords: ["politics", "power", "ambition", "family", "secrets", "kaduna", "corruption", "betrayal"],
-    posterUrl: "https://images.unsplash.com/photo-1504711434969-e33886168d3c?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/kada-river-a1d2a235-1785260211052.webp",
     rating: 4.1,
     streaming: "Netflix",
     runtime: 128
@@ -402,7 +402,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Mercy Johnson", "Okey Uta", "Akin Lewis", "Omowunmi Dada"],
     synopsis: "A woman suffering from dementia begins experiencing terrifying visions that blur the line between her deteriorating mind and a supernatural reality threatening her family.",
     keywords: ["dementia", "memory", "supernatural", "horror", "mental health", "family", "thriller"],
-    posterUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/dementia-14610f20-1785260210192.webp",
     rating: 3.9,
     streaming: "Netflix",
     runtime: 105
@@ -416,7 +416,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Ramsey Nouah", "Beverly Naya", "Gabriel Afolayan", "Omowunmi Dada"],
     synopsis: "A married woman's unexpected encounter with a charismatic stranger threatens to upend her stable life, forcing her to choose between security and passion.",
     keywords: ["marriage", "temptation", "infidelity", "choice", "passion", "romance", "dilemma"],
-    posterUrl: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/tempting-fate-cbc481b4-1785260211285.webp",
     rating: 3.6,
     streaming: "Netflix",
     runtime: 115
@@ -430,7 +430,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Adesua Etomi", "Jim Iyke", "Kehinde Bankole", "Jide Kosoko"],
     synopsis: "A woman desperate for money accepts a dangerous job from a wealthy crime lord, only to discover she's been framed for a murder she didn't commit.",
     keywords: ["framed", "crime", "desperation", "money", "murder", "set up", "survival", "thriller"],
-    posterUrl: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-set-up-599825d2-1785260213492.webp",
     rating: 4.0,
     streaming: "Netflix",
     runtime: 108
@@ -444,7 +444,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Funke Akindele", "Falz", "Akin Lewis", "Tina Mba"],
     synopsis: "A small-town noodle seller accidentally becomes governor after a series of absurd political mishaps, discovering that leadership is far harder than she ever imagined.",
     keywords: ["politics", "comedy", "accidental", "leadership", "governor", "small town", "satire"],
-    posterUrl: "https://images.unsplash.com/photo-1572295728438-8ebc0c5c4013?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/your-excellency-274635fa-1785260213766.webp",
     rating: 3.5,
     streaming: "Netflix",
     runtime: 110
@@ -458,7 +458,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Eniola Ajao", "Chioma Nwachukwu", "Deyemi Okanlawon", "Nnenna Ude"],
     synopsis: "A young woman in Lagos, desperate for a better life, gets drawn into the dangerous world of drug trafficking, where one wrong swallow could mean death.",
     keywords: ["drug trafficking", "desperation", "Lagos", "survival", "poverty", "crime", "consequences"],
-    posterUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/swallow-7ec183df-1785260214415.webp",
     rating: 4.1,
     streaming: "Netflix",
     runtime: 120
@@ -472,7 +472,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Ini Dima-Okojie", "Deyemi Okanlawon", "Bukky Wright", "Osas Ighodaro"],
     synopsis: "Three couples at different stages of life navigate the emotional rollercoaster of infertility, exploring faith, doubt, and the unrelenting hope for a child.",
     keywords: ["infertility", "faith", "marriage", "hope", "family", "struggle", "children", "love"],
-    posterUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-wait-78f9e397-1785260214530.webp",
     rating: 4.3,
     streaming: "Amazon Prime",
     runtime: 125
@@ -486,7 +486,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Toyin Abraham", "Kehinde Olorunyomi", "Deyemi Okanlawon", "Femi Adebayo"],
     synopsis: "A struggling single mother pretends to be a prophetess to make ends meet, but her fabricated miracles attract real followers and unexpected consequences.",
     keywords: ["religion", "scam", "comedy", "prophet", "miracle", "single mother", "faith", "satire"],
-    posterUrl: "https://images.unsplash.com/photo-1572295728438-8ebc0c5c4013?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/prophetess-ee873acc-1785260214837.webp",
     rating: 3.8,
     streaming: "Netflix",
     runtime: 115
@@ -500,7 +500,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Tope Tedela", "Omowunmi Dada", "Ijeoma Nwatu", "Oluwatobi Odun"],
     synopsis: "Ancient African warriors rise from the spirit world to defend modern Nigeria from a dark force threatening to plunge the continent into eternal darkness.",
     keywords: ["superhero", "ancient", "warriors", "spirit", "fantasy", "action", "mythology", "african"],
-    posterUrl: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/rise-of-the-saints-8ca64e39-1785260217581.webp",
     rating: 3.5,
     streaming: "Netflix",
     runtime: 125
@@ -514,7 +514,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Akah Nnani", "Osas Ighodaro", "Joke Silva", "Mobola Sijuwade"],
     synopsis: "The inspiring true story of Samuel Akinyemi, a Nigerian man who overcame immense adversity and corruption to fulfill his calling as a religious leader.",
     keywords: ["biographical", "faith", "perseverance", "religion", "true story", "calling", "ministry"],
-    posterUrl: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/man-of-god-91137f5c-1785260217219.webp",
     rating: 4.0,
     streaming: "Netflix",
     runtime: 135
@@ -528,7 +528,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Odunlade Adekola", "Shaffy Bello", "Deyemi Okanlawon", "Joke Silva"],
     synopsis: "Based on Wole Soyinka's acclaimed play, a king's horseman must ritually die to accompany his late king to the afterlife, but colonial intervention disrupts tradition.",
     keywords: ["yoruba", "tradition", "colonial", "sacrifice", "ritual", "soyinka", "historical", "play"],
-    posterUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/elesin-oba-the-kings-horseman-195393d7-1785260217993.webp",
     rating: 4.5,
     streaming: "Netflix",
     runtime: 140
@@ -542,7 +542,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Tope Tedela", "Gideon Okeke", "Bimbo Manuel", "Uche Nwaeze"],
     synopsis: "A former special forces operative is pulled back into the world of covert operations when his daughter is kidnapped, forcing him to execute an impossible mission.",
     keywords: ["action", "kidnapping", "special forces", "rescue", "mission", "father", "covert"],
-    posterUrl: "https://images.unsplash.com/photo-1581591524435-78b2a8d4e3f0?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/the-contractor-010fd236-1785260217689.webp",
     rating: 3.9,
     streaming: "Amazon Prime",
     runtime: 118
@@ -556,7 +556,7 @@ export const nollywoodMovies: Movie[] = [
     cast: ["Osas Ighodaro", "Stan Nze", "Omowunmi Dada", "Jide Kosoko"],
     synopsis: "A woman's perfect marriage to a charismatic pastor unravels when his dark past resurfaces, threatening to destroy everything she believed about their life together.",
     keywords: ["marriage", "secrets", "pastor", "thriller", "deception", "faith", "betrayal", "dark"],
-    posterUrl: "https://images.unsplash.com/photo-1504711434969-e33886168d3c?w=400",
+    posterUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c4ef0326-f8fc-4ba1-bb6a-48318ceafb7d/ijakumo-00e534aa-1785260218406.webp",
     rating: 4.0,
     streaming: "Amazon Prime",
     runtime: 122

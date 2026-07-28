@@ -3,7 +3,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 import {
   Sparkle, MagnifyingGlass, FilmStrip, Star, PlayCircle,
   ArrowRight, Clock, Users, Calendar, Sliders, ListBullets,
-  MoonStars, Sun, GithubLogo, X, DownloadSimple, ShareNetwork
+  MoonStars, Sun, GithubLogo, X, DownloadSimple, ShareNetwork,
+  ImageSquare
 } from '@phosphor-icons/react';
 import { toast } from 'sonner';
 import { Movie, RecommendationResult, FilterOptions, FeatureWeights, DEFAULT_WEIGHTS } from './types';
@@ -53,6 +54,15 @@ function App() {
   const handleWeightChange = (feature: keyof FeatureWeights, value: number) => {
     setWeights(prev => ({ ...prev, [feature]: value }));
   };
+
+  const handleImageError = useCallback((e: React.SyntheticEvent<HTMLImageElement>) => {
+    const target = e.currentTarget;
+    target.style.display = 'none';
+    const fallback = target.nextElementSibling;
+    if (fallback) {
+      (fallback as HTMLElement).style.display = 'flex';
+    }
+  }, []);
 
   const toggleDark = () => {
     setDarkMode(!darkMode);
@@ -203,7 +213,12 @@ function App() {
                     src={selectedMovie.posterUrl}
                     alt={selectedMovie.title}
                     className="w-full h-full object-cover"
+                    onError={handleImageError}
                   />
+                  <div className="absolute inset-0 hidden flex-col items-center justify-center bg-emerald-950/80" style={{ display: 'none' }}>
+                    <ImageSquare size={36} className="text-emerald-500/60 mb-2" />
+                    <span className="text-xs text-emerald-500/40">Poster unavailable</span>
+                  </div>
                   <div className="absolute inset-0 bg-gradient-to-t md:bg-gradient-to-r from-emerald-950 via-emerald-950/50 to-transparent" />
                 </div>
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-center">
@@ -327,7 +342,11 @@ function App() {
                             src={rec.movie.posterUrl}
                             alt={rec.movie.title}
                             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            onError={handleImageError}
                           />
+                          <div className="absolute inset-0 hidden flex-col items-center justify-center bg-card/80" style={{ display: 'none' }}>
+                            <ImageSquare size={20} className="text-muted-foreground/40" />
+                          </div>
                           <div className="absolute inset-0 bg-gradient-to-r from-transparent to-card" />
                         </div>
                         <div className="flex-1 p-3 min-w-0">
@@ -526,7 +545,12 @@ function App() {
                         src={movie.posterUrl}
                         alt={movie.title}
                         className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                        onError={handleImageError}
                       />
+                      <div className="absolute inset-0 hidden flex-col items-center justify-center bg-card/80" style={{ display: 'none' }}>
+                        <ImageSquare size={28} className="text-muted-foreground/40 mb-1" />
+                        <span className="text-[10px] text-muted-foreground/30">No poster</span>
+                      </div>
                       <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                       {/* Hover Overlay */}
                       <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
